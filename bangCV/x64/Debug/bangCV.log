@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\dev\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\dev\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\dev\opencv\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\dev\opencv\build\include\opencv2\core\utility.hpp : warning C4819: ファイルは、現在のコード ページ (932) で表示できない文字を含んでいます。データの損失を防ぐために、ファイルを Unicode 形式で保存してください。
+c:\users\yuto\documents\visual studio 2015\projects\bangcv\bangcv\source.cpp(80): warning C4102: 'cv': ラベルは 1 度も参照されません。
+  bangCV.vcxproj -> C:\Users\yuto\documents\visual studio 2015\Projects\bangCV\x64\Debug\bangCV.exe
+  bangCV.vcxproj -> C:\Users\yuto\documents\visual studio 2015\Projects\bangCV\x64\Debug\bangCV.pdb (Full PDB)
